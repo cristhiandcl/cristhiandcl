@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Rappi clone](https://github.com/cristhiandcl/deliveroo-clone)
 
-- 🌱 I’m currently learning **React Native, Sanity, Firebase and Redux**
+- 🌱 I’m currently learning **React Native, Redux and Firebase**
 
 - 👯 I’m looking to collaborate on **Any project**
 
