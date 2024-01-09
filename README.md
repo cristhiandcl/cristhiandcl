@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristhiandcl&label=Profile%20views&color=0e75b6&style=flat" alt="cristhiandcl" /> </p>
 
-- 🔭 I’m currently working at Softpymes developing and deploying LLMs
+- 🔭 I’m currently working at Softpymes developing and deploying LLMs applications
 
 - 👯 I’m looking to collaborate on **Any project**
 
