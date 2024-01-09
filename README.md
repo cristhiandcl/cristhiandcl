@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristhian Carrillo</h1>
-<h3 align="center">A Artificial Intelligence Engineer from Colombia</h3>
+<h3 align="center">An Artificial Intelligence Engineer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristhiandcl&label=Profile%20views&color=0e75b6&style=flat" alt="cristhiandcl" /> </p>
 
