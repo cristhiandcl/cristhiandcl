@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cristhian Carrillo</h1>
-<h3 align="center">A React and React Native Developer from Colombia</h3>
+<h3 align="center">A Artificial Intelligence Engineer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristhiandcl&label=Profile%20views&color=0e75b6&style=flat" alt="cristhiandcl" /> </p>
 
-- 🔭 I’m currently working on the [Waiter App](https://github.com/cristhiandcl/waiter-app)
-
-- 🌱 I’m currently learning **React Native, Redux and Firebase**
+- 🔭 I’m currently working on Softpymes developing and deploying LLMs
 
 - 👯 I’m looking to collaborate on **Any project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cristhiandcl](https://github.com/cristhiandcl)
 
-- 💬 Ask me about **Javascript, React, Python**
+- 💬 Ask me about **Python, Javascript, React**
 
 - 📫 How to reach me **carrillocristhian2408@gmail.com**
 
